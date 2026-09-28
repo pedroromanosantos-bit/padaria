@@ -12,7 +12,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #f50808;             /* marrom escuro (texto) */
+    color: #000000;             /* marrom escuro (texto) */
     background-color: #ecfeff;  /* creme (fundo) */
 }
 
